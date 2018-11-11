@@ -1,6 +1,6 @@
 package chess;
 
-import boargame.Board;
+import boardgame.Board;
 
 public class ChessMatch {
 
